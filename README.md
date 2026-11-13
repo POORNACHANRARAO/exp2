@@ -88,7 +88,7 @@ Write:
           <h1>React Props Example</h1>
 
           <Student
-            name="AMMINENI MOKSHA SREE"
+            name="kunam poorna chandra rao"
             department="CSE"
             year="IV Year"
           />
@@ -110,7 +110,7 @@ React Props Example
 
 Student Details
 
-Name: AMMINENI MOKSHA SREE
+Name: KUNAM POOORNA CHANDRA RAO
 
 Department: CSE
 
@@ -128,19 +128,19 @@ Modify App.jsx:
           <h1>Student Information</h1>
 
           <Student
-            name="AMMINENI MOKSHA SREE"
+            name="KUNAM POORNA CHANDRA ARO"
             department="CSE"
             year="IV Year"
           />
 
           <Student
-            name="V.S. SREE VIVEKA"
+            name="RUTHWIK"
             department="AIML"
             year="IV Year"
           />
 
           <Student
-            name="SUKHMEET KAUR G"
+            name="BASHA"
             department="AIDS"
             year="IV Year"
           />
